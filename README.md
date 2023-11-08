@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Moses Ngan
 ==================================================================================================================================
 
-Backend Software Engineer
+Software Engineer
 -------------------------
 
 * 🌍  I'm based in Hong Kong
@@ -35,3 +35,7 @@ Backend Software Engineer
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/MosesNgan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MosesNgan&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=MosesNgan&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![PStreak](https://github-readme-streak-stats.herokuapp.com/?user=MosesNgan&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MosesNgan&theme=dark&show_icons=true&hide_border=false&layout=compact)
