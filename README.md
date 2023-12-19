@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -------------------------
 
-* 🌍  I'm based in Hong Kong
+* 🌍  I'm based in Toronto now :D
 * ✉️  You can contact me at [moses.ngan.tf@gmail.com](mailto:moses.ngan.tf@gmail.com)
 * 🧠  I'm learning node.js
 * 🤝  I'm open to collaborating on projects
